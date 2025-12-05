@@ -1,6 +1,8 @@
 <style>
+body {
   background-color: #000000;
-  img {
+}
+img {
   border-radius: 8px;
 }
 h1.a {
@@ -54,3 +56,4 @@ footer {
     background-color: #420000;
     text-align: center;
 }
+</
