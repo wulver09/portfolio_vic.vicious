@@ -38,7 +38,9 @@ p {
 }
 header {
   background-color: #420000;
-  h1: #ffffff;
+}
+h1{
+    color:#ffffff;
 }
 .btn-group .button {
   background-color: #420000;
