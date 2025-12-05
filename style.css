@@ -1,6 +1,9 @@
 <style>
 body {
   background-color: #000000;
+  img {
+  border-radius: 8px;
+}
 }
 h1.a {
   color: #ffffff;
